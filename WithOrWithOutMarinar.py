@@ -22,7 +22,7 @@ weather = {
 # How much of the speed limit the car is allowed to use
 weather_speed_multiplier = {
     "Sunny": 1.0,
-    "Cloudy": 0.9,
+    "Cloudy": 1.0,
     "Windy": 0.8,
     "Rainy": 0.7,
     "Foggy": 0.6,
@@ -33,7 +33,7 @@ weather_speed_multiplier = {
 # How many minutes earlier the alarm should go off
 weather_alarm_adjustment = {
     "Sunny": 0,
-    "Cloudy": 5,
+    "Cloudy": 0,
     "Windy": 10,
     "Rainy": 15,
     "Foggy": 20,
