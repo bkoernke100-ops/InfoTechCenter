@@ -176,7 +176,7 @@ import time
 # Scan gas tank
 # -----------------------------
 gas_level = random.randint(1, 100)
-print("Scanning gas tank... Scan complete.")
+print("\n Scanning gas tank... Scan complete.")
 print("Gas tank level:", gas_level, "%\n")
 
 # -----------------------------
