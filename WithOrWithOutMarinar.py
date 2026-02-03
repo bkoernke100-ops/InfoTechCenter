@@ -1,7 +1,5 @@
 #Main Branch
 
-#BetaTestDev
-
 # -------------------------------------------------
 # Welcome Branch
 # Simulates a boot-up sequence with colored text
